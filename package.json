@@ -1,0 +1,19 @@
+{
+  "name": "premier-league-app",
+  "version": "0.0.1",
+  "description": "simple premier league table to get my feet wet with next",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlg87/pl-app.git"
+  },
+  "author": "mlg87",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mlg87/pl-app/issues"
+  },
+  "homepage": "https://github.com/mlg87/pl-app#readme"
+}
